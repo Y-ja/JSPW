@@ -8,5 +8,12 @@
 </head>
 <body>
     <h1>Welcome! 꾸꾸까까야</h1>
+    <div>
+        <a href="/chap02/dancer/register">서블릿 댄서 폼</a>
+    </div>
+
+    <div>
+        <a href="/chap03/dancer/register.jsp">jsp 서블릿 댄서 폼</a>
+    </div>
 </body>
 </html>
