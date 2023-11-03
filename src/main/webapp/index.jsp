@@ -12,8 +12,16 @@
         <a href="/chap02/dancer/register">서블릿 댄서 폼</a>
     </div>
 
+<%--    <div>--%>
+<%--        <a href="/chap03/dancer/register.jsp">jsp 서블릿 댄서 폼</a>--%>
+<%--    </div>--%>
+
     <div>
-        <a href="/chap03/dancer/register.jsp">jsp 서블릿 댄서 폼</a>
+        <a href="/WEB_INF/chap04/dancer/register.jsp">jsp 서블릿 댄서 폼2</a>
+    </div>
+
+    <div>
+        <a href="/WEB_INF/chap04/dancer/list.jsp">jsp 서블릿 댄서 폼2</a>
     </div>
 </body>
 </html>
